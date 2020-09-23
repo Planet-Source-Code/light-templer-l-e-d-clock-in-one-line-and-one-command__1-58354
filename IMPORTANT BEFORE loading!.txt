@@ -1,0 +1,22 @@
+
+
+IMPORTANT before loading this VB project:
+==========================================
+
+Be sure to copy the included font file
+
+	'LED_REAL.TTF'
+
+to your windows font directory before start!
+
+Else you don't get the effect.
+
+
+If PSC has removed this file on upload you can get it
+for free from
+
+http://desktoppub.about.com/library/fonts/dd/uc_led.htm
+
+
+Thank you.
+
